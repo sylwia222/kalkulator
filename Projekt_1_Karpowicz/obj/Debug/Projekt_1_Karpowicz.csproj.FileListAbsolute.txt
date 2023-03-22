@@ -1,0 +1,8 @@
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\bin\Debug\Projekt_1_Karpowicz.exe.config
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\bin\Debug\Projekt_1_Karpowicz.exe
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\bin\Debug\Projekt_1_Karpowicz.pdb
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\obj\Debug\Projekt_1_Karpowicz.csproj.AssemblyReference.cache
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\obj\Debug\Projekt_1_Karpowicz.csproj.SuggestedBindingRedirects.cache
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\obj\Debug\Projekt_1_Karpowicz.csproj.CoreCompileInputs.cache
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\obj\Debug\Projekt_1_Karpowicz.exe
+C:\Users\sylwi\OneDrive\Pulpit\PROGRAMOWANIE\semestr 1\Csharp_Projekty_UnderDesign\Projekt_1_Karpowicz\obj\Debug\Projekt_1_Karpowicz.pdb
